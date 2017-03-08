@@ -1,0 +1,6 @@
+{
+  "parent": "eyeq_util:block/ore",
+  "textures": {
+    "ore": "eyeq_orerandomized:blocks/randomized_ore"
+  }
+}

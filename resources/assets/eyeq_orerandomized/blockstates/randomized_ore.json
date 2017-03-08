@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "eyeq_orerandomized:randomized_ore"
+    }
+  }
+}
